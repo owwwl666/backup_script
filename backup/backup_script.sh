@@ -1,5 +1,5 @@
 #!/bin/bash
-today=$(date '+%Y-%m-%d')
+today=$(date '+%Y-%m-%d-%T')
 file=$1
 backup_file=$2
 user_name=$3
